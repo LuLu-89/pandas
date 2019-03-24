@@ -1,0 +1,4 @@
+Observable trends of Pymoli data:
+1. Over 80% of players are males
+2. 40% of all players fall within the age range of 20-24 (according to my data calculations)
+3. Top three most popular items are also most profitable items
